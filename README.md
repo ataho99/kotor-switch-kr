@@ -3,7 +3,7 @@
 # 스타워즈: 구 공화국의 기사단
 ### Star Wars: Knights of the Old Republic · Nintendo Switch 한글패치
 
-![version](https://img.shields.io/badge/version-v0.900-blue)
+![version](https://img.shields.io/badge/version-v0.950-blue)
 ![platform](https://img.shields.io/badge/platform-Switch-e60012)
 ![update](https://img.shields.io/badge/game_update-1.0.4_(v262144)-555)
 ![type](https://img.shields.io/badge/type-mod_folder-2ea44f)
@@ -24,7 +24,8 @@
 | 아이템·능력·퀘스트 일지 | `dialog.tlk` 전체 | ✅ |
 | 글꼴 | [사천항공체](https://www.sacheon.go.kr/intro/01096/05083.web) 비트맵 3장 (`krfont0~2`) | ✅ |
 | 글자 출력 | 실행 파일 한글 출력 처리 | ✅ |
-| 이미지 속 글자 | 로고·일부 UI 그림 | ➖ 원문 |
+| 메인 메뉴 로고 | 「구 공화국의 기사단」 한글 로고 | ✅ |
+| 오프닝 크롤 자막 | 영상에 박힌 글자 | ➖ 원문 |
 
 ## 스크린샷
 
@@ -68,7 +69,7 @@ KOTOR_Switch_KR  →   + 업데이트 NSP               →  make_mod.bat   → 
 
 ```
 exefs/main   SHA-1 7814c04fd6ce7fa85734c2b4abc361a41b6a6a50   8,390,612 bytes
-dialog.tlk   SHA-1 112ab09f5a6f099ee40bf17efe24845bfe704679   5,981,971 bytes
+dialog.tlk   SHA-1 405eca0407c985bce6c542ef11af103e26755505   5,792,799 bytes
 ```
 
 키트가 마지막에 직접 대조합니다. 전체 목록은 `hashes.txt`.
@@ -99,7 +100,7 @@ zip 을 통째로 푼 폴더에서 실행했는지, `prod.keys` 가 그 폴더�
 
 | 파일 | 내용 |
 |---|---|
-| `KOTOR_Switch_KR_v0.900.zip` | `make_mod.bat` · `patch/main.xdelta` · `romfs/` · `tools/` |
+| `KOTOR_Switch_KR_v0.950.zip` | `make_mod.bat` · `patch/main.xdelta` · `romfs/` · `tools/` |
 | `hashes.txt` | 원본·결과·패치 해시 |
 
 `tools/` 의 hactool (ISC) · xdelta3 (Apache 2.0) 라이선스 동봉.
@@ -108,6 +109,7 @@ zip 을 통째로 푼 폴더에서 실행했는지, `prod.keys` 가 그 폴더�
 
 | 버전 | 날짜 | 내용 |
 |---|---|---|
+| v0.950 | 2026-10-23 | 번역 전반 다듬기 · UI 용어 정리 · 메인 메뉴 한글 로고 |
 | v0.900 | 2026-10-16 | 첫 배포 |
 
 ## 제작
