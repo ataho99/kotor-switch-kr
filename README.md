@@ -8,6 +8,7 @@
 ![update](https://img.shields.io/badge/game_update-1.0.4_(v262144)-555)
 ![type](https://img.shields.io/badge/type-mod_folder-2ea44f)
 ![emulator](https://img.shields.io/badge/Eden-tested-8a2be2)
+[![font](https://img.shields.io/badge/font-사천항공체-0a7bbd)](https://www.sacheon.go.kr/intro/01096/05083.web)
 
 **[⬇ 다운로드 (Releases)](../../releases/latest)** · **[버그 제보 (Issues)](../../issues)**
 
@@ -21,7 +22,7 @@
 |---|---|:---:|
 | 대사·선택지 | `dialog.tlk` 전체 | ✅ |
 | 아이템·능력·퀘스트 일지 | `dialog.tlk` 전체 | ✅ |
-| 글꼴 | 한글 글꼴 3종 (`krfont0~2`) | ✅ |
+| 글꼴 | [사천항공체](https://www.sacheon.go.kr/intro/01096/05083.web) 비트맵 3장 (`krfont0~2`) | ✅ |
 | 글자 출력 | 실행 파일 한글 출력 처리 | ✅ |
 | 이미지 속 글자 | 로고·일부 UI 그림 | ➖ 원문 |
 
