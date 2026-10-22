@@ -25,6 +25,16 @@
 | 글자 출력 | 실행 파일 한글 출력 처리 | ✅ |
 | 이미지 속 글자 | 로고·일부 UI 그림 | ➖ 원문 |
 
+## 스크린샷
+
+| | |
+|:---:|:---:|
+| ![메인 메뉴](screenshots/01_main_menu.jpg) | ![컴퓨터 단말](screenshots/02_terminal.jpg) |
+| ![메시지](screenshots/03_message_log.jpg) | ![일지](screenshots/04_journal.jpg) |
+| ![인벤토리](screenshots/05_inventory.jpg) | ![스킬 도움말](screenshots/06_skill_help.jpg) |
+
+<sub>Eden 에뮬레이터 · 업데이트 1.0.4</sub>
+
 ## 준비물
 
 | | |
