@@ -27,11 +27,13 @@
 
 ## 스크린샷
 
-| | |
-|:---:|:---:|
-| ![메인 메뉴](screenshots/01_main_menu.jpg) | ![스킬 도움말](screenshots/02_skill_help.jpg) |
+<div align="center">
+
+![메인 메뉴](screenshots/01_main_menu.jpg)
 
 <sub>Eden 에뮬레이터 · 업데이트 1.0.4</sub>
+
+</div>
 
 ## 준비물
 
